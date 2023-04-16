@@ -1,6 +1,7 @@
 # Strategy
+##Duck and Shape Java Classes
 
-Duck and Shape Java Classes
+
 This project contains Java classes for simulating the behavior of ducks and calculating the area and perimeter of various shapes.
 
 Duck Classes
